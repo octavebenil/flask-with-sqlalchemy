@@ -12,6 +12,8 @@ flask-migrate = "*"
 python-dotenv = "*"
 flask-marshmallow = "*"
 marshmallow-sqlalchemy = "*"
+flask-testing = "*"
+nose = "*"
 
 [dev-packages]
 pylint = "*"
